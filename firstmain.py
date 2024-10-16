@@ -4,7 +4,7 @@ import random
 
 WIDTH, HEIGHT = 1500, 1000 #How big the window is
 WIN = pygame.display.set_mode((WIDTH, HEIGHT)) #Display the window
-pygame.display.set_caption("20.5 Game") #Name at the top of the window
+pygame.display.set_caption("Murder at the Resistance Base") #Name at the top of the window
 
 def main():
      # Initialize Pygame
